@@ -1,7 +1,3 @@
-# Code Institute
+# My Very First Web Page
 
-Welcome Tiff-C,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Welcome!
